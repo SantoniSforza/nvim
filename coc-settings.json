@@ -1,0 +1,31 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "graphql",
+    "html",
+    "yaml",
+    "json"
+  ],
+  "snippets.ultisnips.directories": [
+    "UltiSnips",
+    "~/.config/nvim/utils/snips"
+  ],
+  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home",
+  "java.enabled": true,
+  "java.completion.enabled": true,
+  "languageserver": {
+    "dockerfile": {
+      "command": "docker-langserver",
+      "filetypes": [
+        "dockerfile"
+      ],
+      "args": [
+        "--stdio"
+      ]
+    }
+  },
+  "explorer.icon.enableVimDevicons": true,
+  "clangd.path": "/home/antonio/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd"
+}
