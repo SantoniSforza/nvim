@@ -63,3 +63,4 @@ This are some keybingins besides default ones:
 | **shift + k** | Function or class documentation and arg types |
 # nvim
 # nvim
+# nvim
