@@ -66,3 +66,4 @@ This are some keybingins besides default ones:
 # nvim
 # nvim
 # nvim
+# nvim
