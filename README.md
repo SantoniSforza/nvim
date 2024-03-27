@@ -62,3 +62,4 @@ This are some keybingins besides default ones:
 | **space + p** | Format document with prettier                 |
 | **shift + k** | Function or class documentation and arg types |
 # nvim
+# nvim
