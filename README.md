@@ -61,3 +61,13 @@ This are some keybingins besides default ones:
 | **space + n** | Toggle NerdTree                               |
 | **space + p** | Format document with prettier                 |
 | **shift + k** | Function or class documentation and arg types |
+
+# Qtile ubuntu
+```
+ sudo apt install python3 python3-pip python3-venv python3-v-sim python-dbus-dev libpangocairo-1.0-0 python3-cairocffi libxkbcommon-dev libxkbcommon-x11-dev
+
+```
+
+
+
+
